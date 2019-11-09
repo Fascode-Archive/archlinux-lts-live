@@ -1,0 +1,2 @@
+# archlinux-lts-live
+ArchISOでLTSカーネルのLiveCDをビルドできます

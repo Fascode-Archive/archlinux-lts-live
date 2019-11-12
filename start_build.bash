@@ -15,7 +15,7 @@ fi
 
 
 ## 新しいファイルのダウンロード
-wget -O /tmp/archlinux-builder.sh https://0e0.pw/Kviw
+wget -O /tmp/archlinux-builder.sh https://raw.githubusercontent.com/Hayao0819/archiso-helper/master/archlinux-builder.sh
 
 if [[ -n $(printf "$settings_path" | grep -Eo "http(s?)://(\w|:|%|#|\$|&|\?|\(|\)|~|\.|=|\+|\-|/)+") ]]; then
     wget -O /tmp/settings.bash $settings_path

@@ -10,7 +10,7 @@ dhclient
 dhcpcd
 dialog
 diffutils
-dmks
+dkms
 dmraid
 dnsmasq
 dnsutils
